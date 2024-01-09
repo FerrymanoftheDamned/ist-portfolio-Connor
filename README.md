@@ -1,6 +1,6 @@
 # The Ferry's Logbook
 
-This repository is to be a portfolio of all to the work i do for my ist class
+This repository is to be a portfolio of all to the work I do for my ist class
 
 
 [Ferryman's Portfolio](https://github.com/FerrymanoftheDamned/ist-portfolio-Connor)

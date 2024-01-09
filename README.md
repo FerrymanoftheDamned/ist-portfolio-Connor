@@ -10,3 +10,5 @@ git add.
 git commit -m "Commit message"
 git push
 ```
+
+![Deck of the Ferry](https://static.wikia.nocookie.net/seaofthieves_gamepedia/images/b/b8/Ferry_of_the_damned.png/revision/latest?cb=20220220025508)
